@@ -1,7 +1,9 @@
-# Example Site
+# 夏季資料科學學程
 
-This is a sample redme file for our GitHub Example repo. we are learning Markdown.
+大家好，我是Sharon，請多多指教!
 
-* This is meant to be an example
-* Markdown is really fast
-* Cool
+## week1
+* 課堂
+1. 安裝
+2. Readme.md
+3. Rmarkdown
