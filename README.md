@@ -8,5 +8,4 @@
 2. Readme.md
 3. Rmarkdown
 
-
-[markdown]:(https://github.com/sharon0328/course/week1/markdown.html)
+[markdown]:(https://github.com/sharon0328/course/week1/Markdown.html/)
