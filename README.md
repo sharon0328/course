@@ -9,3 +9,7 @@
 3. Rmarkdown
 
 [Markdown](https://github.com/sharon0328/course/tree/master/week1/Rmarkdown.html)
+
+##week2
+1. 匯入ggplot
+2. 練習作圖
